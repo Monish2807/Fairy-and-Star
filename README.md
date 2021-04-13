@@ -1,1 +1,2 @@
-# Fairy-and-Star
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
